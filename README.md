@@ -1,4 +1,4 @@
-# Forecastie
+# Climatography
 
 [![Release](https://img.shields.io/github/release/martykan/forecastie.svg)](https://github.com/martykan/forecastie/releases)
 [![Circle CI](https://circleci.com/gh/martykan/forecastie/tree/master.svg?style=svg)](https://circleci.com/gh/martykan/forecastie/tree/master)
